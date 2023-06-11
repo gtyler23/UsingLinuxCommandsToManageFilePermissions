@@ -1,7 +1,7 @@
 <h1>Using Linux Commands to Manage File Permissions</h1>
 
 <h2>Description</h2>
-<img src="https://imgur.com/dzfNRWV.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://imgur.com/ljZsMQZ.png" height="80%" width="80%" alt="Linux Steps"/>
 <h2>Languages and Utilities Used</h2>
 
 - <b>Linux</b> 
@@ -14,27 +14,27 @@
 
 <p align="center">
 Check file and directory: <br/>
-<img src="https://i.imgur.com/eYF9Lb6.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/RutPF74.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 Decribe the permission string: <br/>
-<img src="https://i.imgur.com/zJJhjm2.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/kiw1Tc2.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 Change file permissions: <br/>
-<img src="https://i.imgur.com/Jepol1G.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/DU7yQS9.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 Change file permissions on a hidden file:  <br/>
-<img src="https://i.imgur.com/9ngZAZ5.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/zylhOdD.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 Change directory permissions:  <br/>
-<img src="https://i.imgur.com/Tw2m89P.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/C9HJlcD.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 Summary:  <br/>
-<img src="https://i.imgur.com/29q43E1.png" height="80%" width="80%" alt="Linux Steps"/>
+<img src="https://i.imgur.com/SiQfgdm.png" height="80%" width="80%" alt="Linux Steps"/>
 <br />
 <br />
 
